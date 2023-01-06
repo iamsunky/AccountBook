@@ -24,6 +24,7 @@ public class AccountDAO {
 		list.add(new AccountDTO("23/01/06", "용돈", "수입", 50000, "새해용돈"));
 		list.add(new AccountDTO("23/01/06", "용돈", "수입", 50000, "새해용돈"));
 		list.add(new AccountDTO("23/01/06", "용돈", "수입", 50000, "새해용돈"));
+		// 샘플데이터 추가
 	}
 	
 	
