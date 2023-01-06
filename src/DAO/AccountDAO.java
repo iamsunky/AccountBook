@@ -21,6 +21,7 @@ public class AccountDAO {
 		list.add(new AccountDTO("22/12/27", "월급", "수입", 3000000, "12월급여"));
 		list.add(new AccountDTO("22/12/25", "용돈", "수입", 50000, "12월용돈2"));
 		list.add(new AccountDTO("22/12/30", "용돈", "수입", 100000, "12월용돈1"));
+		list.add(new AccountDTO("23/01/06", "용돈", "수입", 50000, "새해용돈"));
 	}
 	
 	
